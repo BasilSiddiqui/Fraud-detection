@@ -61,16 +61,16 @@ The best model (based on ROC AUC) is used to predict **fraud likelihood** from a
 ## 📸 Visual Results
 
 ### 📊 1. Missing Value Visualization
-*(Insert image here)*
+![Missing Values](images/MissingValue.png)
 
 ### 🔥 2. Correlation Heatmap
-*(Insert image here)*
+![Correlation Heatmap](images/CorrelationHeatmap.png)
 
 ### 🌲 3. Top 15 Features - Random Forest
-*(Insert image here)*
+![Top 15 Features](images/Top15Features.png)
 
 ### 🧾 4. Confusion Matrix - Best Model
-*(Insert image here)*
+![Confusion Matrix](images/ConfusionMatrix.png)
 
 ---
 
