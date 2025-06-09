@@ -1,8 +1,5 @@
 # 🔍 Insurance Fraud Detection Using Machine Learning
 
-![project-badge](https://img.shields.io/badge/Machine%20Learning-Fraud%20Detection-blueviolet)
-![project-status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
 ## 🧠 What is This Project?
 
 This project is a complete end-to-end solution to **detect fraudulent insurance claims** using machine learning. The dataset is derived from a real-world-like auto insurance claims dataset and includes details about policies, incidents, and claimant behavior.
